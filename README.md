@@ -50,25 +50,30 @@ The system simplifies personal and small business financial management by enabli
 
 ### Main Dashboard
 
-<img width="726" height="395" alt="1" src="https://github.com/user-attachments/assets/44c5b168-5a6a-4606-9b5a-5cf1e24a05ec" />
+<img width="726" height="395" alt="1" src="https://github.com/user-attachments/assets/8daf67a3-bd52-472c-b7a4-3530a4193eaa" />
+
 
 
 ### New Transaction
 
-<img width="725" height="395" alt="2" src="https://github.com/user-attachments/assets/829fb2d1-53ec-43ef-ac9c-1032b56cc10e" />
+<img width="725" height="395" alt="2" src="https://github.com/user-attachments/assets/d884404f-f667-4f99-aacf-30e71d19fc43" />
+
 
 ### Transaction Report
 
-<img width="727" height="395" alt="3" src="https://github.com/user-attachments/assets/fd9d1080-08d9-4dd1-9873-0221724a8f24" />
+<img width="727" height="395" alt="3" src="https://github.com/user-attachments/assets/9222c15e-f40b-4656-afd2-31f704bf524c" />
+
 
 ### Report Management
 
-<img width="726" height="395" alt="4" src="https://github.com/user-attachments/assets/11f99ce5-737e-4f85-861f-6b1314324cf2" />
+<img width="726" height="395" alt="4" src="https://github.com/user-attachments/assets/70351fe4-9473-492f-a180-78f245cf91e0" />
+
 
 
 ### Contacts List
 
-<img width="1053" height="295" alt="5" src="https://github.com/user-attachments/assets/d2c4e3fa-a37f-4ce6-8cc8-5a015d61bff8" />
+<img width="1053" height="295" alt="5" src="https://github.com/user-attachments/assets/99a3fa88-db31-4157-99ea-b8a2c9c652c7" />
+
 
 
 ---

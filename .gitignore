@@ -1,3 +1,42 @@
+# Build folders
 bin/
 obj/
+
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+packages/
+
+# Logs
+*.log
+
+# Publish output
+publish/
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Development secrets
+appsettings.Development.json
+secrets.json
