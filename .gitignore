@@ -25,12 +25,9 @@ packages/
 # Publish output
 publish/
 
-# Database files
+# SQL Server database files
 *.mdf
 *.ldf
-
-# Generated files
-Generated_Code/
 
 # Temporary files
 *.tmp
@@ -40,9 +37,6 @@ Generated_Code/
 Thumbs.db
 Desktop.ini
 
-# EF Core Scaffolding (optional)
-ScaffoldedModels/
-
-# Secrets
+# Development secrets
 appsettings.Development.json
 secrets.json
